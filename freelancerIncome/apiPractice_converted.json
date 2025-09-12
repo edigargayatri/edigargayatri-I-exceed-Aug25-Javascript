@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Alice",
+    "Company": "Google",
+    "Emp_ID": 101,
+    "Age": 25,
+    "Salary": 5000,
+    "Currency": "USD",
+    "Country": "USA",
+    "Target_Currency": "USD",
+    "Converted_Salary": "5000.00",
+    "Local_Time": "2025-09-08 00:57:27"
+  },
+  {
+    "Name": "Ramesh",
+    "Company": "Infosys",
+    "Emp_ID": 102,
+    "Age": 28,
+    "Salary": 80000,
+    "Currency": "INR",
+    "Country": "India",
+    "Target_Currency": "USD",
+    "Converted_Salary": "906.53",
+    "Local_Time": "2025-09-08 10:27:27"
+  },
+  {
+    "Name": "John",
+    "Company": "Amazon",
+    "Emp_ID": 103,
+    "Age": 30,
+    "Salary": 7000,
+    "Currency": "EUR",
+    "Country": "Germany",
+    "Target_Currency": "USD",
+    "Converted_Salary": "8198.64",
+    "Local_Time": "2025-09-08 06:57:27"
+  },
+  {
+    "Name": "Priya",
+    "Company": "TCS",
+    "Emp_ID": 104,
+    "Age": 26,
+    "Salary": 90000,
+    "Currency": "INR",
+    "Country": "India",
+    "Target_Currency": "USD",
+    "Converted_Salary": "1019.85",
+    "Local_Time": "2025-09-08 10:27:27"
+  },
+  {
+    "Name": "David",
+    "Company": "Microsoft",
+    "Emp_ID": 105,
+    "Age": 35,
+    "Salary": 6000,
+    "Currency": "GBP",
+    "Country": "UK",
+    "Target_Currency": "USD",
+    "Converted_Salary": "8096.07",
+    "Local_Time": "2025-09-08 05:57:27"
+  }
+]
